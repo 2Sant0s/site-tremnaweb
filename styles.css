@@ -1,5 +1,3 @@
-/*  GERAL
-******************/
 html, body{
     height: 100%;
     margin: 0;
@@ -42,9 +40,6 @@ html, body{
     top: -85px;
 }
 
-
-/*  HEADER
-******************/
 .main-header{
     position: relative;
 }
@@ -89,29 +84,19 @@ html, body{
     max-width: 90%;
 }
 
-
-/*  O LUGAR
-******************/
 .lugar{
     background-image: url('./images/bar_interior.jpg');
 }
 
-
-
-/*  NOSSOS DRINKS
-******************/
 .drinks{
     background-image: url('./images/drinks_background.jpg');
 }
-
 
 .drink-image{
     max-width: 30%;
     margin-top: -30px
 }
 
-/*  FOOTER
-******************/
 .main-footer{
     position: relative;
     padding: 10px;
